@@ -6,7 +6,7 @@
 
 <br>
 
-<div> 
+<div align="left"> 
   <a href="https://github.com/vinniciusrodrigues99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinniciusrodrigues99&show_icons=true&theme=dracula">
 
@@ -27,11 +27,11 @@
 </div>
 <br/>
 
-- 🔭 Procurando emprego na àrea
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
+- 🔭 Técnico de Informática
+- 🌱 Formando em Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no e-mail: vinniciusrodrigues1999@gmail.com
 - 😄 Pronomes: ele/dele
 
 <br/>
 
-<img src="https://media.tenor.com/qnMzDiqQOUgAAAAC/last-of-us2-last-of-us.gif" align ="right" height="150px">
+<img src="https://media.tenor.com/qnMzDiqQOUgAAAAC/last-of-us2-last-of-us.gif" align ="left" height="150px">
